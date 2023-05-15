@@ -1,1 +1,5 @@
 comidas
+lasanha
+bolacha
+biscoito
+alface
