@@ -1,1 +1,9 @@
 ola mundo2
+comidas 
+bebidas e drinks
+
+
+
+
+>>cat
+clear
